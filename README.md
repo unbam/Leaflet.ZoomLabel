@@ -1,7 +1,7 @@
-L.Control.ZoomLabel
+Leaflet.ZoomLabel
 ====
 
-L.Control.ZoomLabel is a simple zoom level control that you can drop into your leaflet map.
+Leaflet.ZoomLabel is a simple zoom level control that you can drop into your leaflet map.
 It displays zoom level of the map.
 
 ## Usage
@@ -34,7 +34,7 @@ L.control.zoomLabel().addTo(map);
 
 ## Demo
 
-[https://unbam.github.io/L.Control.ZoomLabel/](https://unbam.github.io/L.Control.ZoomLabel/)
+[https://unbam.github.io/Leaflet.ZoomLabel/](https://unbam.github.io/Leaflet.ZoomLabel/)
 
 
 ## License
