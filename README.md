@@ -34,7 +34,7 @@ L.control.zoomLabel().addTo(map);
 
 ## Demo
 
-[https://unbam.github.io/Leaflet.ZoomLabel/](http://unbam.github.io/Leaflet.ZoomLabel/)
+[http://unbam.github.io/Leaflet.ZoomLabel/](http://unbam.github.io/Leaflet.ZoomLabel/)
 
 
 ## License
