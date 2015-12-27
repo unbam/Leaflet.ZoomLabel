@@ -9,7 +9,7 @@ It displays zoom level of the map.
 Include the CSS:
 
 ```
-<link rel="stylesheet" href="L.Control.ZoomLabel.css" />
+<link rel="stylesheet" href="L.Control.ZoomLabel.css">
 ```
 
 
