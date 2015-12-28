@@ -8,21 +8,21 @@ It displays zoom level of the map.
 
 Include the CSS:
 
-```
+```html
 <link rel="stylesheet" href="L.Control.ZoomLabel.css">
 ```
 
 
 Include the JavaScript:
 
-```
+```html
 <script src="L.Control.ZoomLabel.js"></script>
 ```
 
 
 Example usage:
 
-```
+```javascript
 L.control.zoomLabel().addTo(map);
 ```
 
